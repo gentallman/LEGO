@@ -11,10 +11,11 @@
 
 You can access the dataset here: https://rebrickable.com/downloads/ or https://www.kaggle.com/datasets/rtatman/lego-database/data
 
-
 <p align="center">
   <img src="assest/World_of_Lego.png"/>
 </p>
+
+Dashboard Link : https://public.tableau.com/app/profile/smit.rana6369/viz/LEGO_16900338877770/Dashboard1?publish=yes
 
 Data Insights : 
 - Until 2017, LEGO had released a vast collection, including approximately 11,670 unique sets and an impressive 1,890,000 distinct parts.
