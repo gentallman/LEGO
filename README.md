@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>THE WORLD OF LEG</h1>
+  <h1>THE WORLD OF LEGO</h1>
 </p>
 
 - <div align="justify">LEGO is a widely recognized brand known for its toy building bricks, often packaged in sets designed to construct specific objects. Each set comprises a variety of parts, encompassing diverse shapes, sizes, and colors. The database in question is a compilation of information detailing the components included in various LEGO sets. Originally created to assist individuals who already owned LEGO sets, the database serves as a valuable resource for determining which additional sets can be constructed using the pieces at hand. </div>
