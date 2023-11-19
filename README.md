@@ -19,10 +19,9 @@ You can access the dataset here: https://rebrickable.com/downloads/ or https://w
 </p>
 
 Data Insights : 
-<p align="justify">
-  - Until 2017, LEGO had released a vast collection, including approximately 11,670 unique sets and an impressive 1,890,000 distinct parts.
-  - Over the period from 1950 to 2017, there was a continual growth in the number of LEGO sets introduced. The peak occurred in 2014, with a record-breaking 713 sets unveiled, featuring the introduction of 60 newly released colors.
-  - The supplemental theme stood out with the highest number of sets released, reaching a total of 496 by the end of 2017.
-  - Analyzing the top 20 themes, the Modular Buildings theme exhibited the highest average number of parts, totaling around 2,351. Following closely, Sculptures claimed the second spot in terms of the average number of parts required to complete the theme.
-  - The bubble chart illustrates that Horizon Express, released in 2013, stands out as the most diverse set, incorporating a remarkable 34 categories of pieces/parts within its composition.
-</p>
+- Until 2017, LEGO had released a vast collection, including approximately 11,670 unique sets and an impressive 1,890,000 distinct parts.
+- Over the period from 1950 to 2017, there was a continual growth in the number of LEGO sets introduced. The peak occurred in 2014, with a record-breaking 713 sets unveiled, featuring the introduction of 60 newly released colors.
+- The supplemental theme stood out with the highest number of sets released, reaching a total of 496 by the end of 2017.
+- Analyzing the top 20 themes, the Modular Buildings theme exhibited the highest average number of parts, totaling around 2,351. Following closely, Sculptures claimed the second spot in terms of the average number of parts required to complete the theme.
+- The bubble chart illustrates that Horizon Express, released in 2013, stands out as the most diverse set, incorporating a remarkable 34 categories of pieces/parts within its composition.
+
