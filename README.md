@@ -2,7 +2,7 @@
 
 
 <p align="center">
-        <img src="https://github.com/gentallman/Decode_Gaming_Behavior/blob/c6b9636b348def9af275f1586f64b7e5de9f00ef/player.gif" width=100>
+        <img src="https://github.com/gentallman/LEGO/blob/83b61edd7a9752b208af775ef77238f68f4cc050/lego.gif" width=350>
 </p>
 
 - <div align="justify">LEGO is a widely recognized brand known for its toy building bricks, often packaged in sets designed to construct specific objects. Each set comprises a variety of parts, encompassing diverse shapes, sizes, and colors. The database in question is a compilation of information detailing the components included in various LEGO sets. Originally created to assist individuals who already owned LEGO sets, the database serves as a valuable resource for determining which additional sets can be constructed using the pieces at hand. </div>
