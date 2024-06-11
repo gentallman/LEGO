@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>THE WORLD OF LEGO</h1>
-</p>
+<h1 align="center">World of LEGO</h1>
 
 - <div align="justify">LEGO is a widely recognized brand known for its toy building bricks, often packaged in sets designed to construct specific objects. Each set comprises a variety of parts, encompassing diverse shapes, sizes, and colors. The database in question is a compilation of information detailing the components included in various LEGO sets. Originally created to assist individuals who already owned LEGO sets, the database serves as a valuable resource for determining which additional sets can be constructed using the pieces at hand. </div>
  
@@ -23,4 +21,14 @@ Data Insights :
 - The supplemental theme stood out with the highest number of sets released, reaching a total of 496 by the end of 2017.
 - Analyzing the top 20 themes, the Modular Buildings theme exhibited the highest average number of parts, totaling around 2,351. Following closely, Sculptures claimed the second spot in terms of the average number of parts required to complete the theme.
 - The bubble chart illustrates that Horizon Express, released in 2013, stands out as the most diverse set, incorporating a remarkable 34 categories of pieces/parts within its composition.
+
+## Contact
+
+Author: Smit Rana
+
+LinkedIn: https://www.linkedin.com/in/smit98rana/
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
