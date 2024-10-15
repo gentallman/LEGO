@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="https://public.tableau.com/app/profile/smit.rana6369/viz/LEGO_16900338877770/Dashboard1?publish=yes">
-    <img src="https://github.com/user-attachments/assets/9f720f25-43d7-461f-9949-7d942aa9a766" alt="Live Project" width="120">
+    <img src="https://github.com/user-attachments/assets/eb030d5f-8bb3-458e-9a2b-3c13a455c662" alt="Live Project" width="120">
 </a>
 </p>
 
