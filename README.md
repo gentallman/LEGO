@@ -5,6 +5,15 @@
         <img src="https://github.com/gentallman/LEGO/blob/83b61edd7a9752b208af775ef77238f68f4cc050/lego.gif" width=350>
 </p>
 
+
+<p align="center">
+<a href="https://public.tableau.com/app/profile/smit.rana6369/viz/LEGO_16900338877770/Dashboard1?publish=yes">
+    <img src="https://github.com/user-attachments/assets/9f720f25-43d7-461f-9949-7d942aa9a766" alt="Live Project" width="120">
+</a>
+</p>
+
+You can access the dataset here: ![Rebrickable](https://rebrickable.com/downloads/) or !{Kaggle](https://www.kaggle.com/datasets/rtatman/lego-database/data)
+
 - <div align="justify">LEGO is a widely recognized brand known for its toy building bricks, often packaged in sets designed to construct specific objects. Each set comprises a variety of parts, encompassing diverse shapes, sizes, and colors. The database in question is a compilation of information detailing the components included in various LEGO sets. Originally created to assist individuals who already owned LEGO sets, the database serves as a valuable resource for determining which additional sets can be constructed using the pieces at hand. </div>
  
   
@@ -12,13 +21,11 @@
   
 - <div align="justify">The dataset contains the LEGO parts, sets, colors, and Inventories of every official LEGO set in the rebuildable database. These files are current as of July 2017. This dataset was compiled by Rebrickable, which is a website to help identify what LEGO sets can be built given bricks and pieces from other LEGO sets.</div>
 
-You can access the dataset here: https://rebrickable.com/downloads/ or https://www.kaggle.com/datasets/rtatman/lego-database/data
+
 
 <p align="center">
   <img src="assest/World_of_Lego.png"/>
 </p>
-
-Dashboard Link : https://public.tableau.com/app/profile/smit.rana6369/viz/LEGO_16900338877770/Dashboard1?publish=yes
 
 Data Insights : 
 - Until 2017, LEGO had released a vast collection, including approximately 11,670 unique sets and an impressive 1,890,000 distinct parts.
